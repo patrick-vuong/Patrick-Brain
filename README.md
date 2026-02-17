@@ -11,7 +11,12 @@ This repository serves as a centralized hub for various development resources, c
 ### 🤖 Custom Agents
 Custom AI agents and configurations tailored for specific development tasks and workflows.
 
-### 📝 Tech .MDs
+### 📝 Tech Stack Documentation
+
+**Start here for React projects:**
+- **[TECH_STACK_DEFAULTS.md](TECH_STACK_DEFAULTS.md)** - Quick reference guide with decision flowcharts, mental models, and the recommended default stack. Always read this first! 🌟
+- **[TECH_STACK_REFERENCE.md](TECH_STACK_REFERENCE.md)** - Comprehensive encyclopedia with detailed comparisons and trade-offs. Consult when you need deep context. 📚
+
 Technical markdown documentation files for planning and architecting full-stack applications. These documents provide structured templates and guidelines for project planning.
 
 ### 🛠️ Agent Skills
