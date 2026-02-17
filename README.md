@@ -31,4 +31,8 @@ This repository is intended as a reference and resource library. Components can 
 
 ## Getting Started
 
+**For AI Agents:** Read [.copilot-instructions.md](.copilot-instructions.md) first for guidance on using this repository efficiently.
+
+**For React Projects:** Start with [TECH_STACK_DEFAULTS.md](TECH_STACK_DEFAULTS.md) for quick tech stack decisions.
+
 Browse the repository structure to find the resources you need for your project. Each section contains specific implementations and documentation to help you get started quickly.
