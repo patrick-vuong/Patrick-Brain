@@ -19,6 +19,8 @@ Custom AI agents and configurations tailored for specific development tasks and 
 
 Technical markdown documentation files for planning and architecting full-stack applications. These documents provide structured templates and guidelines for project planning.
 
+**Documentation Validation:** ✅ Tested and validated against real-world scenarios. See [VALIDATION_SUMMARY.md](VALIDATION_SUMMARY.md) for results.
+
 ### 🛠️ Agent Skills
 Reusable skills and capabilities that can be integrated into various AI agents to enhance their functionality.
 
